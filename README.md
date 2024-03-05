@@ -51,7 +51,7 @@ _________
 
 - [Conceptos básicos de ciberseguridad](/docs/conceptos_basicos.md)
 - [Presentación de fundamentos de ciberseguridad](/docs/Presentacion%20taller%20ciberseguridad%20básica.pdf)
-- [Modelo de confianza cero (Zero trust)]()
+- [Modelo de confianza cero (Zero trust)](/docs/zero-trust.md)
 - [Fases de un ataque]()
 - [Modelo de responsabilidad compartida]()
 - [Explicación del cifrado]()
