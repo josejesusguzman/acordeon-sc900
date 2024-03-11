@@ -11,6 +11,8 @@ _________
   - [Unidad 0. Fundamentos necesarios](#unidad-0-fundamentos-necesarios)
   - [Unidad 1. Conceptos básicos de seguridad, cumplimiento e identidad](#unidad-1-conceptos-básicos-de-seguridad-cumplimiento-e-identidad)
     - [Labs](#labs)
+    - [Apuntes](#apuntes)
+    - [Examen](#examen)
   - [Unidad 2. Microsoft Entra](#unidad-2-microsoft-entra)
   - [Unidad 3. Soluciones de seguridad de Microsoft](#unidad-3-soluciones-de-seguridad-de-microsoft)
   - [Unidad 4. Soluciones de cumplimiento de Microsoft](#unidad-4-soluciones-de-cumplimiento-de-microsoft)
@@ -52,19 +54,27 @@ _________
 - [Conceptos básicos de ciberseguridad](/docs/conceptos_basicos.md)
 - [Presentación de fundamentos de ciberseguridad](/docs/Presentacion%20taller%20ciberseguridad%20básica.pdf)
 - [Modelo de confianza cero (Zero trust)](/docs/zero-trust.md)
-- [Fases de un ataque]()
-- [Modelo de responsabilidad compartida]()
-- [Explicación del cifrado]()
+- [Fases de un ataque](/docs/fases_ataque.md)
+- [Roles vs Directivas](/docs/roles_directivas.md)
+- [Modelo de responsabilidad compartida](/docs/modelo-shared-responsability.md)
+- [Explicación del cifrado](/docs/cifrado.md)
 - [Explicación de gobernanza]()
 - [Métodos de autenticación multifactorial]()
-- [Identidad y Active Directory]()
+- [Microsoft Entra ID]()
 - [Explicación de federación]()
+- [Diferencias entre licencias de Microsoft Entra ID]()
 
 ### Labs
 
-- [Ejercicio de federación]()
 - [Implementación de autenticación multifactor]()
-- [Exploración de Microsoft Entra ID (Azure AD)]()
+- [Exploración de Microsoft Entra ID (antes Azure AD)]()
+
+### Apuntes
+- [Apunte 1](/apuntes/apunte1.pdf)
+- [Apunte 2](/apuntes/apunte2.pdf)
+
+### Examen
+- [Aquí haz el examen de la Unidad 1 y Unidad 2](https://kahoot.it/challenge/008359766?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1710189162939)
 
 _________
 
