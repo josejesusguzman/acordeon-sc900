@@ -14,7 +14,9 @@ _________
     - [Apuntes](#apuntes)
     - [Examen](#examen)
   - [Unidad 2. Microsoft Entra](#unidad-2-microsoft-entra)
+    - [Examen](#examen-1)
   - [Unidad 3. Soluciones de seguridad de Microsoft](#unidad-3-soluciones-de-seguridad-de-microsoft)
+    - [Examen](#examen-2)
   - [Unidad 4. Soluciones de cumplimiento de Microsoft](#unidad-4-soluciones-de-cumplimiento-de-microsoft)
 
 <!-- /TOC -->
@@ -82,11 +84,17 @@ _________
 
 TBA
 
+
+### Examen
+- [Aquí haz el examen de la Unidad 1 y Unidad 2](https://kahoot.it/challenge/008359766?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1710189162939)
 _________
 
 ## Unidad 3. Soluciones de seguridad de Microsoft
 
 TBA
+
+### Examen
+- [Aquí haz el examen de la Unidad 3](https://kahoot.it/challenge/004065448?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1710546566038)
 
 _________
 
